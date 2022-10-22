@@ -1,3 +1,3 @@
-# meh
-MEh Phonetic Alphabet &amp; Number System.
+# MEh
+MЄ (MEh) Phonetic Alphabet &amp; Number System.
 Version 2.0.
