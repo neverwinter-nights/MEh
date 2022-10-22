@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg4288"
+   viewBox="0 0 600 1000"
+   height="1000"
+   width="600"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="P_ungroupped.svg"
+   inkscape:export-filename="P.png"
+   inkscape:export-xdpi="17.280001"
+   inkscape:export-ydpi="17.280001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="0.63429567"
+     inkscape:cx="262.49588"
+     inkscape:cy="496.61383"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs4290">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="786.91602,88.465661"
+       end_point="786.91602,1016.2587"
+       center_point="786.91602,552.36218"
+       id="path-effect167"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+  </defs>
+  <metadata
+     id="metadata4293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(0,-52.362161)">
+    <path
+       id="rect1081-0-7-3"
+       style="display:inline;fill:#000000;stroke:none;stroke-width:1.009"
+       d="m 101.41966,88.465683 c -32.75031,0 -59.11719,26.847837 -59.11719,60.195307 v 807.40234 c 0,33.34741 26.36688,60.19527 59.11719,60.19527 32.75031,0 59.11523,-26.84786 59.11523,-60.19527 V 148.66099 c 0,-33.34747 -26.36492,-60.195307 -59.11523,-60.195307 z" />
+    <g
+       id="g1025"
+       transform="translate(0,45.845533)"
+       style="stroke:none">
+      <path
+         style="display:inline;fill:#000000;stroke:none;stroke-width:1.03932"
+         id="rect421-3"
+         width="118.16779"
+         height="510.57404"
+         x="-705.60052"
+         y="47.123482"
+         rx="59.083897"
+         ry="59.083897"
+         transform="rotate(-90)"
+         sodipodi:type="rect"
+         d="m -646.51663,47.123482 c 32.73248,0 59.0839,26.351418 59.0839,59.083898 v 392.40624 c 0,32.73248 -26.35142,59.0839 -59.0839,59.0839 -32.73248,0 -59.08389,-26.35142 -59.08389,-59.0839 V 106.20738 c 0,-32.73248 26.35141,-59.083898 59.08389,-59.083898 z" />
+      <path
+         style="display:inline;fill:#000000;stroke:none;stroke-width:1.03932"
+         id="path1011"
+         width="118.16779"
+         height="510.57404"
+         x="-425.60052"
+         y="47.123482"
+         rx="59.083897"
+         ry="59.083897"
+         transform="rotate(-90)"
+         sodipodi:type="rect"
+         d="m -366.51663,47.123482 c 32.73248,0 59.0839,26.351418 59.0839,59.083898 v 392.40624 c 0,32.73248 -26.35142,59.0839 -59.0839,59.0839 -32.73248,0 -59.08389,-26.35142 -59.08389,-59.0839 V 106.20738 c 0,-32.73248 26.35141,-59.083898 59.08389,-59.083898 z" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     id="layer3"
+     transform="translate(0,-52.362161)" />
+</svg>

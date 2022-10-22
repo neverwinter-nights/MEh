@@ -1,0 +1,3 @@
+https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Keyboard Layouts

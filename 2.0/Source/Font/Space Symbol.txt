@@ -1,0 +1,10 @@
+Space Symbol.
+
+You need to set the width of your space. You don't have to put any shape in
+there but space is a glyph and if the slot is empty it will present your
+default glyph if pressed. Select the space slot in the font view and use
+Metrics> Set Width, and give it any number greater than zero (though it
+should be about half to two thirds the average width of your lowercase
+letters).
+
+https://github.com/fontforge/fontforge/issues/2627

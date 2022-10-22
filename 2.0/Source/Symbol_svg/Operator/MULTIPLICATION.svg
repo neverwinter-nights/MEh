@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg4288"
+   version="1.1"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="MULTIPLICATION.svg"
+   inkscape:export-filename="MULTIPLICATION.png"
+   inkscape:export-xdpi="17.280001"
+   inkscape:export-ydpi="17.280001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4290" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.53033008"
+     inkscape:cx="-68.825061"
+     inkscape:cy="571.34229"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1635"
+     inkscape:window-height="1001"
+     inkscape:window-x="41"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="false"
+     units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata4293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3"
+     transform="translate(0,-52.362161)">
+    <path
+       style="fill:#000000;stroke:none"
+       d="M 293.60155,1010.2462 C 270.5258,992.0948 264.49299,962.7252 264.45327,868.343 l -0.0349,-82.81247 -90.93538,0 c -101.721492,0 -120.505142,-5.23575 -137.636962,-38.36506 -13.76023,-26.60938 -7.19378,-56.72369 16.7644,-76.88319 18.60819,-15.65775 21.09259,-16.00175 115.567302,-16.00175 l 96.55028,0 -1.71732,-101.5625 -1.71732,-101.5625 -97.95787,-3.125 C 71.369568,445.09668 64.424868,444.00909 49.801788,430.25034 29.962818,411.584 24.542258,389.79288 33.207098,363.53817 45.687858,325.72112 62.124688,320.16572 168.55536,317.79252 l 94.762,-2.113 2.113,-94.76201 c 2.3732,-106.43067 7.9286,-122.867496 45.74565,-135.348256 26.25471,-8.66484 48.04583,-3.24428 66.71217,16.594686 13.75875,14.62308 14.84634,21.56778 17.78019,113.5337 l 3.125,97.95789 101.5625,1.71732 101.56246,1.71732 0,-96.55029 c 0,-94.47471 0.3438,-96.95911 16.0018,-115.5673 20.1595,-23.958186 50.2738,-30.524626 76.8832,-16.764396 33.1293,17.131816 38.365,35.915466 38.365,137.636966 l 0,90.93538 82.8125,0.035 c 45.5469,0.0194 93.2315,2.92854 105.9657,6.46528 28.318,7.86484 48.7298,32.34518 48.6985,58.40523 -0.031,25.27589 -20.6992,58.84848 -38.8453,63.09691 -7.841,1.83561 -55.0376,4.02047 -104.8814,4.85509 l -90.625,1.51749 -1.7173,101.5625 -1.7173,101.5625 97.6548,0 97.6548,0 21.25,21.25 c 28.0663,28.06625 29.089,57.27225 3.0278,86.46388 l -18.2223,20.41112 -100.1035,1.98675 -100.1035,1.98675 -1.9867,100.10347 -1.9868,100.1035 -20.4111,18.2223 c -29.1916,26.0612 -58.3976,25.0385 -86.4639,-3.0278 l -21.25,-21.25 0,-97.6548 0,-97.6548 -101.56246,1.71732 -101.5625,1.71731 -1.51749,90.62497 c -0.83462,49.8438 -3.01948,97.0404 -4.85524,104.8814 -4.24843,18.1461 -37.82101,38.8149 -63.0969,38.8453 -10.7083,0.013 -26.7833,-5.7296 -35.72223,-12.761 z m 306.90922,-457.52817 -1.7174,-101.5625 -99.99996,0 -100,0 -1.73696,93.47543 c -0.95533,51.41148 -0.34047,97.11457 1.36635,101.56251 2.36053,6.15143 27.1219,8.08706 103.45428,8.08706 l 100.35099,0 -1.7173,-101.5625 z"
+       id="path4585"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 4" />
+</svg>
