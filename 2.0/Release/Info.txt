@@ -1,2 +1,12 @@
-MEh Phonetic Alphabet & Number System.
-Version 2.0.
+MЄ (MEh) Phonetic Alphabet & Number System.
+Version 2.0.1.
+
+
+List of changes (patches)
+
+[2.0.1]
+* A mistype in an example was corrected, affected files are: МЄ_NUMBERS_ENG.odt, МЄ_NUMBERS_ENG.pdf.
+* Zipped file format was chenged from RAR to ZIP, as ZIP is more popular.
+
+[2.0]
+The first version released in this GitHub repository.
