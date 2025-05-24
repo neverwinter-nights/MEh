@@ -4,6 +4,10 @@ Version 2.0.1.
 
 List of changes (patches)
 
+[2.0.2]
+* Mistypes in description files were corrected.
+* Zipped file is now using maximum compression ratio.
+
 [2.0.1]
 * A mistype in an example was corrected, affected files are: МЄ_NUMBERS_ENG.odt, МЄ_NUMBERS_ENG.pdf.
 * Zipped file format was changed from RAR to ZIP, as ZIP is more popular.
